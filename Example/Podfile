@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SNExtension_Example' do
+  pod 'SNExtension', :path => '../'
+
+  target 'SNExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

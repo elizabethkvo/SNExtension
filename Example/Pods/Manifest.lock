@@ -1,0 +1,16 @@
+PODS:
+  - SNExtension (0.1.0)
+
+DEPENDENCIES:
+  - SNExtension (from `../`)
+
+EXTERNAL SOURCES:
+  SNExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SNExtension: 0d7c8a1ffef10076f7066582cc99986bf5651669
+
+PODFILE CHECKSUM: 8db84b398eb33a354543cfce7559caede7e060b6
+
+COCOAPODS: 1.6.1
